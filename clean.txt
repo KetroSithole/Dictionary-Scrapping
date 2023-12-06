@@ -4885,11 +4885,6 @@
 -khukhudzana, come or go to a meeting in groups, not singly. khu-khu-khu, (id.) walk stooping or hiding one's face. khukhukhukhu, (id.) fall.
 -khukhula, flood, as a river; sweep away debris, as river in flood.
 -khukhumba, 1 wash up, gather, deposit debris as river in flood. 2 carry a load at the end of a pole; walk and stagger under a heavy load. 3 take all for oneself, leaving nothing for others, as food, fruit.
--
--
--
--
--
 -khukhumba 5, (usu. pl.) see khukhuri.
 -khukhumela, flatten oneself to crawl under something low.
 -khukhumula, see -kukumula.
@@ -4939,11 +4934,6 @@
 -khunguluxo 3, overthrow.
 -khunguvanyeka, 1 stumble. 2 be shocked, offended, become hurt. 3 be led astray from path of right behaviour; fall morally.
 -khunguvanyisa, lead astray morally; offend, scandalise, shock, hurt one's feelings.
--
--
--
--
--
 -khunguveta, empty completely, leave nothing over for other people.
 -khungwa 5, fruit of the nkhungwa tree.
 -khunharhu 1, thirty.
@@ -4993,11 +4983,6 @@
 -khuxa, 1 rub, polish, clean metal, scour. 2 collide with the shoulders in passing each other.
 -khuxisa, rub carefully.
 -khuxu, (id.) break, get broken off, becoming detached, as branch, and fall off.
--
--
--
--
--
 -khuxulela, tear off legs and wings of locusts when preparing them for a meal.
 -khuyu 5, molar tooth, wisdom tooth.
 -khuza, (Zu.) 1 urge on, e.g. oxen by speaking to them; shout loudly, as to cattle. 2 call or hail from a distance. 3 comfort, commiserate, condole, console, solace, sympathise with. 4 seek or take refuge.
@@ -5046,11 +5031,6 @@
 -khweke, (id.) see -khwekeka.
 -khwekeka, be hooked, as by thorns; be jammed in between, as meat between teeth.
 -khwekela, be jammed in between, as fibre between teeth; become hooked or be stuck between two things thus precluding further movement.
--
--
--
--
--
 -khwekeriwa, get something between one's teeth.
 -khweketa, 1 hook, hook on or in; jam in between. 2 fit arrow to bowstring.
 -khwekhwerhuta, scratch, scrape off, as plough on hard dry ground.
@@ -5105,11 +5085,6 @@
 -kihlanyisa, make somewhat over half full.
 -kikilihoo, (id.) crowing, of cock.
 -kikiri-kikiri, (id.) caper, gambol, as a calf.
--
--
--
--
--
 -kilikidyo, (id.) make sound of swallowing large mouthfuls.
 -kilikihoo, (i.) see kikilihoo.
 -kilogiramu 9, (Eng.) kilogram (kg).
@@ -5132,14 +5107,14 @@
 -kiyela, be insufficient, be deficient in, be short of, as food for the people present.
 -klayimeti 9, (Eng.) climate.
 -kliniki 9, (Eng.) clinic.
--ko, (id.) 1 be disgustingly dirty. 2 knock against something hard and dry.
+-ko,(id.) 1 be disgustingly dirty. 2 knock against something hard and dry.
 -ko, abbrev. form of -kondza: tirha u ko u heta, work until you finish.
 -kobya, (id.) plunge with hollow sound into deep water; make a splash, as fish surfacing.
 -kobya-kobya, (id.) slosh noisily through water; flow of water in copious amount.
 -kocakocisa, rattle, as sticks against each other.
 -kocela, hook to carry, as bundle at end of stick, pouch on one's belt.
 -koci 9, (Afr.) pig.
--koco, (id.) see -kocokana.
+-koco,(id.) see -kocokana.
 -kocokana, strike one another producing a rattling sound, as boxes in a wagon on a bad road, stones in a shaken tin.
 -koconoka, be dislocated, inarticulated, hurt at joint.
 -koconola, dislocate.
@@ -5162,11 +5137,6 @@
 -koketela, 1 pull up, as one's trousers; pull repeatedly. 2 entice, attract people, influence them in one's favour, get them to accept one's views.
 -kokisa, attract; -- nsimbhi, magnetise.
 -kokisi 5, (Afr.) bun, cake, cookie, biscuit, pastry, tart; -- ra nyama ndzeni, meatpie.
--
--
--
--
--
 -kokiyani, (id.) pull violently, jerk.
 -koko 1, familiar for kokwana.
 -kokoco-kokoco, (id.) make rattling noise of seeds in dry calabash; make clicking noise as when trying a lock.
@@ -5216,11 +5186,6 @@
 -kolonga, -kolongana, lie curled up, as a snake.
 -kolongano, (id.) see -kolongana.
 -koloni 5, (Eng.) colony.
--
--
--
--
--
 -kolontswa, polish, smoothen, give a finish to a wooden vessel or pottery.
 -kolota, (Afr.) owe, be in debt.
 -kolwa, be satisfied, be contented, have enough of, as of smoking, drink, music, but not in respect of food.
@@ -5271,11 +5236,6 @@
 -koninisa, see -konanisa.
 -konjane, konjani 11, sp. of bird, patincole.
 -kono, (id.) see -konola.
--
--
--
--
--
 -konoka, 1 dry out, become dry. 2 break off in pieces, as brittle stick, tooth. 3 go to stool when consti- pated.
 -konokela, break off inside, as thorn in flesh.
 -konola, 1 break clean through, as sweet potato. 2 break something brittle or cork-like. 3 go to stool when constipated.
@@ -5326,14 +5286,10 @@
 -korwisa, satisfy.
 -kosa, 1 ask for more, demand a higher price, when bargaining, as when discussing lovola. 2 cough after hemp smoking.
 -kositina, kostina 9, (Eng.) concertina; -- ya xipiyano, accordion.
--kota, 1 manage, supervise; be able, be capable of; be a match for; achieve, succeed; ndzi va kotile, I got
--
--
--
--
--
--the better of them; -- ku hakela, be solvent. 2 be like, be friendly with one another.
--kota 9, (Eng.) quarter of the year; -- -awara, quarter-hour.
+-kota, 1 manage, supervise; be able, be capable of; be a match for; achieve, succeed; ndzi va kotile, I got the better of them; 
+-ku hakela, be solvent. 2 be like, be friendly with one another.
+-kota 9, (Eng.) quarter of the year; 
+-awara, quarter-hour.
 -kotana, be well matched, be friendly with one another, be friends, comrades.
 -kotara 9, (Eng.) quarter, of the year; school term.
 -kote, interj.: it serves you right.
@@ -5380,13 +5336,7 @@
 -kuba ka mbilu 15, heart pulsation, heartbeat. kubaleka 15, thunderbolt, thunderclap. kubalesa 15, artillery fire.
 -kubiwa ekerekeni 15, excommunication.
 -kubya, (id.) become slack, as a punctured tyre; being limp and laying down suddenly.
--kubya-kubya, (id.) 1 walk or move with quivering flesh, as fat woman. 2 wade knee-deep and produce
--
--
--
--
--
--sound of such wading.
+-kubya-kubya, (id.) 1 walk or move with quivering flesh, as fat woman. 2 wade knee-deep and producensound of such wading.
 -kubyama, become punctured and flat, as tyre.
 -kubyamela 15, incubation.
 -kuca, incite to wrongdoing, to doing risky thing; influence; urge to embark on an adventure.
@@ -5439,11 +5389,6 @@
 -kukumezani 1, moorhen, african water-hen (Gallinula chloropus meridionalis).
 -kukumuka, 1 swell up, rise, as dough. 2 become bloated.
 -kukumula, 1 cause to swell. 2 cause indigestion. 3 make great effort, as to lift heavy load, to vomit or during confinement.
--
--
--
--
--
 -kukumuxa, cause to swell, inflate; -- hi handzelo, make rise, as bread with leaven.
 -kukununu, (id.) 1 feel miserable, as after a bereavement. 2 hide oneself by crouching.
 -kukureta, see -kukuleta.
@@ -5496,11 +5441,7 @@
 -kulutela, 1 smoothen, polish with soft mud, as a wall or earthenware pot. 2 move eggs about to change their position (brooding hen).
 -kulutsela, -kulutswela, polish, give finish to wooden vessel or pottery; smoothen.
 -kuma, find, gain, obtain, get, acquire, procure; ndzi n'wi kumile a nga ri kona, I found him not there; -- n'wana, to give birth to a child; -- ndlela, devise; bewitch. (Idiom) -- dodonono, to get into great difficul- ties; -- rhambu, to get something to keep one busy; -- tinhloko, to beget children; -- xo tirila, go get something with which to console oneself.
--
--
--
--
--
+
 -kuma, (id.) nod the head, as when falling asleep while seated.
 -kumama, give each other a tough time.
 -kuma-kuma, (id.) nod the head when sleepy.
