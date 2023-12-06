@@ -314,25 +314,25 @@ barileyi 9, (Eng.) barley. barometa 9, (Eng.) barometer. baroni 9, (Eng.) baron.
 bavuri 9, barbel.
 bawa 5, gadfly, horsefly, botfly; jigger flea, chigger flea.
 -bawela, sink away in deep mud.
-bawu, (id.) be burnt, of growing crops by heat and drought.
+-bawu, (id.) be burnt, of growing crops by heat and drought.
 -bawukelana, be parched.
 -bawula, parch.
 -bawulela, see -bavulela. bawuri 9, see bavuri. bawuti 5, nut for bolt.
 baxa 5, (coll., no pl.) poles as building material.
-bayela 5, dance ball.
-bayela, bayele 5, (Eng.) boiler. bayethe, greeting used towards a chief. bayi 9, woman-chaser.
-Bayibele, Bayibili 9, (Eng.) Bible.
-bayisikiri 5, (Eng.) bicycle.
-bayisikopo 9, (Eng.) bioscope, cinema, flick.
-bazara 9, bazaar.
-bazari 9, (Eng.) bursary.
+-bayela 5, dance ball.
+-bayela, bayele 5, (Eng.) boiler. bayethe, greeting used towards a chief. bayi 9, woman-chaser.
+-Bayibele, Bayibili 9, (Eng.) Bible.
+-bayisikiri 5, (Eng.) bicycle.
+-bayisikopo 9, (Eng.) bioscope, cinema, flick.
+-bazara 9, bazaar.
+-bazari 9, (Eng.) bursary.
 -bazela, see -basela.
-bazela 9, see basela.
+-bazela 9, see basela.
 -bazelana, see -baselana.
-bazi 9, (Eng.) bus; -- -tireme, double-decker bus.
-be, (id.) 1 be intense to high degree, be excessive, as heat of sun or anger; intensity, quality e.g. as nicely finished job or article; taste very good, as food; have strong taste, as beer. 2 make dull sound, as stick on flesh. 3 be very cross, refuse to be contradicted. 4 break wind.
+-bazi 9, (Eng.) bus; -- -tireme, double-decker bus.
+-be, (id.) 1 be intense to high degree, be excessive, as heat of sun or anger; intensity, quality e.g. as nicely finished job or article; taste very good, as food; have strong taste, as beer. 2 make dull sound, as stick on flesh. 3 be very cross, refuse to be contradicted. 4 break wind.
 -beba, speak at length in a friendly way.
-bebebe, (id.) see -bebemuka.
+-bebebe, (id.) see -bebemuka.
 -bebeka, feel bloated from overeating.
 -bebelela, 1 bleat in special way, as billy-goat when sexually excited. 2 care for, take care of, have a place for everything, put everything in its proper place.
 -bebemuka, 1 awake with a start. 2 break out all over, as measles.
@@ -341,38 +341,41 @@ bebebe, (id.) see -bebemuka.
 -bebezela, speak angrily and at length.
 -bebuka, be slightly crazy, be a trifle insane, be a little unsound of mind.
 -bebula, carry child on one's back in baby-sling.
-bebuu, interj. of mother to child when she wants to take it on her back.
+-bebuu, interj. of mother to child when she wants to take it on her back.
 -bedula, be curved out of straight, as wall badly built; curve back lips, as donkey.
 -bedza, (Eng.) bet, wager, lay a wager.
 -bedzelana, (Eng.) bet or lay a wager against one another.
-bee, (id.) bleating.
-bee-bee, (id.) sound as of horn, trumpet.
-bege 9, (Eng.) bag, handbag.
+-bee, (id.) bleating.
+-bee-bee, (id.) sound as of horn, trumpet.
+-bege 9, (Eng.) bag, handbag.
 -beja, bet, wager, lay a wager.
-beja 5, loin's skin.
+-beja 5, loin's skin.
 -bejula, spy on, inform, as a spy.
-bejwani, (Zu.) rhinoceros.
+-bejwani, (Zu.) rhinoceros.
 -beka, grow lean, be or become thin, be emaciated, as through famine, illness, confinement; become skinny.
-bekoni 9, (Eng.) bacon.
+-bekoni 9, (Eng.) bacon.
 -bela, -- swipikiri, hammer, knock in, as nails; -- dzovo, peg down a wet fresh hide; -- magadi, harrow, beat down clods with hoe; -- munhu mahiri, to speak so that a person cannot understand, using strange terms or with secret meaning; -- makorhweni, to have the knack, to know the tricks; -- munhu makuvelele, to designate a person indirectly, without naming him; -- munhu nkonya, to frown at; -bela swiporo, to shoe a horse. (Idiom) -- bolo, to play football; -- khadi, to skip with a rope; -- non'wini, to eat;
 
 
 
 
 
--- timhingu, to mark a site; -- xilawini, to catch red-handed; -- yindlu, to roof a house; -- ka dlaya, to smite; -- xikomu, to fit handle to hoe.
-bele 9, (Eng.) bale, -- ra wulu, bale of wool.
-belejara 9, (Eng.) bell-jar.
-bemba 5, fool, imbecile, stupid person.
-bembele 5, green maize stalk without an ear.
+-timhingu, to mark a site; 
+- xilawini, to catch red-handed; 
+-yindlu, to roof a house; -- ka dlaya, to smite; 
+-xikomu, to fit handle to hoe.
+-bele 9, (Eng.) bale, -- ra wulu, bale of wool.
+-belejara 9, (Eng.) bell-jar.
+-bemba 5, fool, imbecile, stupid person.
+-bembele 5, green maize stalk without an ear.
 -bemula, take off a part, esp. the upper part; take off or break off from, as plaster from a wall.
-bence 5, (Eng.) bench, banister; -- ra muvatli, carpenter's bench.
-bencu 5, (Zu.) men's skin back-apron; loin's skin.
-bende 9, (Eng.) musical band; -- ya swingecengece, percussion band; -- ya switi- ringo, recorder band (flutes).
-bendlela, bendlele 5, bangle, bracelet worn mainly by young boys going dancing or fighting.
-bengele 5, (Eng.) see bendlela.
-benju 9, banjo.
-benke 9, (Eng.) bank.
+-bence 5, (Eng.) bench, banister; -- ra muvatli, carpenter's bench.
+-bencu 5, (Zu.) men's skin back-apron; loin's skin.
+-bende 9, (Eng.) musical band; -- ya swingecengece, percussion band; -- ya switi- ringo, recorder band (flutes).
+-bendlela, bendlele 5, bangle, bracelet worn mainly by young boys going dancing or fighting.
+-bengele 5, (Eng.) see bendlela.
+-benju 9, banjo.
+-benke 9, (Eng.) bank.
 -beremuka, be demolished; collapse, tumble down, fall over, topple down, as wall or river bank.
 -beremula, -beremuxa, break down, pull down, demolish, as wall or river bank.
 berete 9, (French) beret.
