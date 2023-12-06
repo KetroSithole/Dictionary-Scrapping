@@ -1,6 +1,6 @@
--a, (high pitch) 1 formative of imperfect tense, a ndzi famba, I was walking; a ndzi fambile, I had gone. 2 formative of hortative, a hi tirheni, let us work.
--a, (low pitch) form of negative, a va tirhi, they are not working.
--a, (medium pitch) pron. 3rd pers. sing., he, she, it. a-a-a-a-a, exclamation of surprise or pain. abuxeni, (salutation) see avuxeni.
+-a,(high pitch) 1 formative of imperfect tense, a ndzi famba, I was walking; a ndzi fambile, I had gone. 2 formative of hortative, a hi tirheni, let us work.
+-a,(low pitch) form of negative, a va tirhi, they are not working.
+-a,(medium pitch) pron. 3rd pers. sing., he, she, it. a-a-a-a-a, exclamation of surprise or pain. abuxeni, (salutation) see avuxeni.
 -abvana 5, see bvana, maabvana. accelerando 9, accelerando (music). adajiyo 9, adagio (music).
 -adirese 9, (Eng.) address of a letter, postal address.
 -adiresela, address a letter.
@@ -156,12 +156,12 @@
 -ba, 1 beat, box, chastise, clap, strike, punish, assault, hit, knock, lash, punch, ram, rap, smite. 2 suspend, debar from office, excommunicate. 3 -- ka mbilu, pulsation. (Idiom) -- dada, -- xirhendzevu- tani, form a circle; -- guswi, to clap hands in greeting; -- hi gwitsi, to be covered with frost; -- hala ni hala, -- swikhago, (i) to beat about the bush, (ii) to mislead people with one's words; -- hansi, to fail, be unsuccessful; -- henhla, to score a high mark, to make a good impression; -- hi misava, -- hi rivala, become poor or sick, to suffer great misfortune, to lose all of one's possessions; -- hi moya, to take a walk; -- hi nenge, to walk barefoot, to go on foot; -- hi nomu, admonish, chastise; -- hi ripfalo, to have qualms of conscience; -- hi swikwembu, to be struck by misfortune, to suffer misfortune; -- or biwa hi tilo, to be struck by lightning; -- hi tinhlolo, to be smelt out as a witch; -- hi vuvabyi, to fall ill; -- hi xiphangu, to be damaged by hail; -- hi xirhami, to be frost-bitten; -- hungu/hungwe, (i) proclaim, (ii) raise the alarm, call to arms, (iii) to spread news; -- huwa, to shout, to clamour, to make a noise; -- ka tliloko, striking of the clock; -- khwele, to whistle through the teeth; -- kinko, harmonise, dance and blow reed flutes; -- kona, to hit the nail on the head, to feel the same; -- mabomu, to swim dog-stroke; -
 -madyota, (i) make sound of pestle in mortar, (ii) pull fingers or toes so that they make a clicking
 -sound; -- magotsa, hasten one's pace; -- mahlo, deceive, cheat; -- mahlweni, -- mati, bribe, give a present to receive a service or favour; -- makhuvela, spread insinuations, hints; -- mandla, to thank, to express gratitude; -- maphepha, to play cards; -- maphinta, make windings as a snake; -- marha, to take a meal; -- matonoro/matonori, -- manorho/ swingorho, to snore; -- matsanya, to sit with legs apart/astride; -- mfee, to run away, to scatter; -- mhaka, conclude a matter satisfactorily, to strike or tell the truth; -- mhalamhala, to call the people to the chief's kraal; -- midaridari, -- mihahari, (i) talk nonsense, (ii) to be evasive; -- nkulungwagna, to express joy, ululate for joy (women); -- mombo, to bring a point home forcefully; -- moya, to miss; -- mphasa, to make a hemp pipe; -- muduba, form a line, fall in line; -- mukhosi, to call for assistance; -- nanga, (i) to blow a trumpet, (ii) to rejoice; -- ndleve, to listen with rapt attention; -- ndlopfu hi xibakele, to make no impression at all; -- ndzelekana, to fix a limit, a boundary, as of a field, to demarcate; -- ndzhaku ka xikomu, to reap an abundant crop;
--- ndzhati, draw a line; -- ngoma, to start/open a circumcision school; -- ngwenya hi sava, to carry coal
--to Newcastle; -- nhloko, to confuse, to deceive; -- nkalanga, to scream; -- nkosi, to lament, to mourn; --
--
--nomu, to stop someone from speaking; --noti, to hiss, to whistle; -- noyi, declare someone as being a witch, to point out a witch; -- nsimbhi, to ring a bell; ntsengo, -- tihomu, to pay the bride price/dowry; -- nkelenga, -- nyanda, -- nyandhayeyo, call for help; -- ntshati, to draw a line; -- nyiwa, proclamation by chief only; -- nyoka, to take a meal; -- pongo/pongwe, make a noise; -- rikofu, clap hands in ritual fashion, showing respect and thanks; -- riqinghu, telegraph; -- ritsurhi, to make dust rise up in the air;
--- timpiko, flap wings; -- tinhlaya, eat one bite or very little only; -- tinhloko ta timhaka, to summarise a discussion or a story; -- tinhlolwana, to make knuckles produce a cracking sound; -- tsolo, render a girl pregnant; -- vurhongo, sleep deeply; -- wa xibunu, to wake up early; -- hi xibakela, to box, to punch; -- xifuva, cause to forget; -- xihlahla, to miss the culprit; -- xihlungwana, (i) to roof a house, (ii) to be very tall; -- xikhiyani, make shrill-out laughter of happiness or derision; -- xikosi, to hit the nail on the head;
--- xindziwandziwana, to evade the truth, prevaricate; -- xinghezi, to speak good english; -- xingonya, to act violently; -- swipikiri, to drive in nails; --xipirhi, make secret arrangements; -- xitseve, to sit with folded legs; -- xuma, pay dowry/bride price.
+-- ndzhati, draw a line; 
+-- ngoma, to start/open a circumcision school; -- ngwenya hi sava, to carry coal
+-to Newcastle; -- nhloko, to confuse, to deceive; -- nkalanga, to scream; -- nkosi, to lament, to mourn; 
+--nomu, to stop someone from speaking; --noti, to hiss, to whistle; -- noyi, declare someone as being a witch, to point out a witch; -- nsimbhi, to ring a bell; ntsengo, -- tihomu, to pay the bride price/dowry; -- nkelenga, -- nyanda, -- nyandhayeyo, call for help; -- ntshati, to draw a line; -- nyiwa, proclamation by chief only; -- nyoka, to take a meal; -- pongo/pongwe, make a noise; -- rikofu, clap hands in ritual fashion, showing respect and thanks; -- riqinghu, telegraph; -- ritsurhi, to make dust rise up in the air;
+--timpiko, flap wings; -- tinhlaya, eat one bite or very little only; -- tinhloko ta timhaka, to summarise a discussion or a story; -- tinhlolwana, to make knuckles produce a cracking sound; -- tsolo, render a girl pregnant; -- vurhongo, sleep deeply; -- wa xibunu, to wake up early; -- hi xibakela, to box, to punch; -- xifuva, cause to forget; -- xihlahla, to miss the culprit; -- xihlungwana, (i) to roof a house, (ii) to be very tall; -- xikhiyani, make shrill-out laughter of happiness or derision; -- xikosi, to hit the nail on the head;
+--xindziwandziwana, to evade the truth, prevaricate; -- xinghezi, to speak good english; -- xingonya, to act violently; -- swipikiri, to drive in nails; --xipirhi, make secret arrangements; -- xitseve, to sit with folded legs; -- xuma, pay dowry/bride price.
 -baa, (id.) 1 be flat. 2 be white, be plainly visible.
 -baba, 1 defecate, go to stool (only of children); evacuate bowels, excrete. 2 patch, a garment.
 -baba 5, 1 large patch or blotch of colour, as on an animal. 2 excrement, stool, faeces.
@@ -204,8 +204,6 @@
 -bakutela, paddle, row.
 -bala, 1 tax. 2 pay tax or rent. 3 (Zu.) write, copy.
 -bala 9, (Eng.) 1 bar, public house. 2 (cl. 5) place where salt is found. 3 wheelbarrow.
--
--
 -balabatseka, 1 sleep badly, restlessly; toss in sleep or sickness. 2 talk on and on, as in delirium or rage, talk out of turn.
 -bale 5, (Eng.) wheelbarrow.
 -baleka, 1 open out, break, burst open, shoot, as buds; -- xiluva or vuluva, bloom, blossom, flower; -- mahlo, open the eyes (of pups or kittens). 2 bolt, elope, flee, run away, slink, escape, desert, leave without notice. 3 crack, as thunderbolt, thunderclap; go off with a bang, as a gun; explode. (Idiom) -- mahlo, to face the realities of life, become wise.
@@ -310,9 +308,6 @@
 -bavitsoko 5, 1 bitter sweet drink, ginger beer, pineapple beer; chutney. 2 something causing pleasure and pain.
 -
 -
--
--
--
 -bavuka, 1 be scorched, singed, blackened by fire, as veld; -- malepfu, get one's whiskers burnt off; mavele ya bavukile, the maize is burnt by the sun. 2 -- xivirhi, be slandered, be the victim of slander and calumny.
 -bavula, scorch, singe.
 -bavulela, 1 protect a village from veld fire by burning the grass arount it. 2 stamp maize a second time, after bran has been winnowed off.
@@ -365,7 +360,10 @@
 -
 -
 -
--- timhingu, to mark a site; -- xilawini, to catch red-handed; -- yindlu, to roof a house; -- ka dlaya, to smite; -- xikomu, to fit handle to hoe.
+-timhingu, to mark a site; 
+- xilawini, to catch red-handed; 
+-yindlu, to roof a house; -- ka dlaya, to smite; 
+-xikomu, to fit handle to hoe.
 -bele 9, (Eng.) bale, -- ra wulu, bale of wool.
 -belejara 9, (Eng.) bell-jar.
 -bemba 5, fool, imbecile, stupid person.
@@ -2941,11 +2939,6 @@
 -gwandlalaka, (id.) make sound of light object dropping to the ground.
 -gwandza 5, see gwanda.
 -gwangalakaxa, gwangwalakwahla, (id.) thunderclap very near.
--
--
--
--
--
 -gwano 9, guano.
 -gwantla, (id.) bang, crash, slam as a door; be deafened by blow on ear or water in ear.
 -gwantlala, slam, as a door.
@@ -2987,24 +2980,12 @@
 -gwitsila, freeze.
 -gwitsileni 5, freezing point.
 -gwitsiriso 3, refrigeration.
--
--
--
--
+
 -H
--
--
--
--
--
 -ha, 1 interj. of outraged indignation, of disapproval, disbelief. 2 excl. to contradict or refuse. 3 interj. expressing surprise with protest or mild rebuke.
 -ha, give, bestow, present.
 -ha, (adv., conj.) according, accordingly, by means of, because of: ndzi khomiwile hi phorisa ha wena, I have been arrested by a policeman because of you; ha vomu, on purpose, intentionally, willfully: u n'wi susumetile ha vomu, you pushed him willfully.
--
--
--
--
--
+
 -ha, (vb. prefix, preceded by pronominal form in -a) still, ndza ha tirha, I am still working. Neg., a ndza ha tirhi, I am no longer working; with ku: ndza ha ku fika, I have just arrived.
 -ha, (pers. pronoun 1st. pers. pl.) we, e.g. hina ha famba: we are going.
 -haa, (id.) vomit.
@@ -3109,11 +3090,6 @@
 -handzakaxa, 1 dig, search, rummage. 2 scratch as fowls.
 -handzela, 1 ridge, prop up plants to prevent them from being pushed by wind.
 -2 provide one's family with food at time of famine. (Idiom) -- endzhaku, to make no progress at all.
--
--
--
--
--
 -handzelo 9, malt, yeast, ferment, leaven.
 -handzuka, be torn, rent; tear. (Idiom) -- ripfalo, to sustain a shock.
 -handzuko 5, hernia.
@@ -3160,11 +3136,7 @@
 -harhafo, harhafu 9, (Afr.) spade.
 -harhana, harhani 9, (Afr.) sewing cotton, thread, yarn; -- ya muchini, machine cotton; -- yo khavisa, embroidering cotton; -- yo koma, selvedge thread; -- yo rheya, tacking cotton; -- yo rhunga, sewing cotton; -- yo songana, tangled thread; -- yo xarhiwa, stranded cotton.
 -harhi, hari 9, 1 coil, as of twisted grass, used as head pad when carrying burden; any coil, as of wire, tobacco; anything circular resembling coil, a crown. 2 forked pole used as prop; fork, as of a tree
--
--
--
--
--
+
 -branch, a stick, a path. 3 gap, pass between hills or mountains.
 -harika, (Afr.) rake.
 -harika, hariki 9, (Afr.) harrow, rake. harimoniyama 9, (Eng.) harmonium. harinisi 5, (Afr.) harness.
@@ -3264,11 +3236,6 @@
 -hendzula, pilot a boat with an oar, steer.
 -henhla, (adv., prep.) above, up, higher up, upwards, on; -- ka, on, on top of, upon, in connection with; -
 - ka swona, moreover; languta --, look upwards; (fig.) drink too much; -tekela --, overstress unintended
--
--
--
--
--
 -importance on small matter, make a mountain out of a mole hill; -- ka ndzingano wa lwandle, above sea level; -- ko ringana, flat surface.
 -heniya 9, (Eng.) hernia.
 -henu, (id.) see -henuka.
@@ -3314,11 +3281,6 @@
 -hikatana, punctuate.
 -hiketsi, (id.) lie motionless or as if dead.
 -hikiwa, be limited.
--
--
--
--
--
 -hiko 9, limit, barrier, end; full stop; -- -mbirhi, semicolon. hikokwalaho, it is because of ..., therefore, -- ka, on account of. hikusa, hikuva, (conj.) because.
 -hikwa-, hikwe-, all, (see hinkw-). hikwalaho, see hikokwalaho. hikwana 9, semicolon. hikwenu, see hinkwenu. hikwerhu, see hinkwerhu.
 -hilaha, (adv.) -- ... hakona, how, as, as if, as like; hi ta vona -- a tirhaka hakona, we shall see how he works; tirha -- u rhandzaka hakona, work as you please.
@@ -3326,7 +3288,6 @@
 -hima, box, punch, ram, hit with or against something big and hard, as with boot or butt of gun.
 -himbi 3 (pl. mihimbi), 1 the shrub african "Mangosteen" (Garcinia livingstonei). 2 (cl. 5) the berry of the
 -himbi, used to make a beverage.
--
 -himela, (slang) eat a lot.
 -himetela, hit repeatedly, hammer away at.
 -hina, (abs. pron., 1st pers. pl.), we, us, ourselves.
@@ -3362,11 +3323,6 @@
 -hiseko 5, fanatism, passion.
 -hiso 5, heat.
 -hita, -- vurhongo, prevent from sleeping, as dogs do when barking all night; -- un'wana ntirho, distract
--
--
--
--
--
 -a person from his work.
 -hiteka, keep oneself awake, be watchful, vigilant; work hard and zealously; work at night.
 -hitekela, persevere, be absorbed in one's work.
@@ -3415,11 +3371,6 @@
 -hlambanyela, promise solemnly.
 -hlambanyisa, 1 make a supposition based on a hypothesis; think nostalgically of the past.
 -hlambela, 1 annoy other people by use of foul language. 2 swim; cross a river.
--
--
--
--
--
 -hlambelela, 1 save drowning person by swimming. 2 wean from evil ways, thereby saving, as it were. 3 do something outstanding in contrast to rest of family.
 -hlamberisa, assist in crossing a river.
 -hlambeto 9, large wide-mouthed earthenware cooking pot.
@@ -3469,11 +3420,6 @@
 -hlangavela, feel unwell, be off colour.
 -hlangaveta, go to meet someone coming back or paying a visit.
 -hlangula, wipe, rub off, erase, efface, clean. (Idiom) -- marhimila, to wipe a child's nose; -- mihloti, to comfort or to console; -- munhu, to rob a person of all his belongings; -- vito, to expel from member- ship.
--
--
--
--
--
 -hlangula 5, anything used for wiping, wiper.
 -hlangulamatinyo, hlangulameno 5, tooth-brush. 2 (jocular) breakfast.
 -hlangulo 5, fringe, as of shawl.
@@ -3518,11 +3464,6 @@
 -hlayetela, enumerate.
 -hlayisa, conserve, guard, keep, maintain, preserve, protect, store, tend, take care of, look after; invest money; -- ndzhulo, maintain order; -- -ndzhongho, mulch; -- xileriso, observe commands.
 -hlayiseka, be saved, preserved, protected, be safe and sound, be under good care, be in good hands.
--
--
--
--
--
 -hlayisela, -- ndhawu, make a reservation, book a seat.
 -hlayiselo 5, economy; -- ra mati ya mpfula, control of rainwater.
 -hlehla, 1 discard. 2 walk backwards, retreat, retire as when in danger.
@@ -3573,11 +3514,6 @@
 -hleyamisa, slant.
 -hliki, (id.) 1 see -hlikihla. 2 be full to the throat, as when sated or standing neck deep in water, or befouled all over with muddy water.
 -hlikihla, be spattered with: -- hi mafurha, with grease all around the mouth after gorging on meat; -- hi
--
--
--
--
--
 -ndzhope, with mud after sinking into a mud hole.
 -hlinti 9, see hleti.
 -hlisa, take down; accuse.
@@ -3617,11 +3553,6 @@
 -hlongha, see -hlonga.
 -hlongola, banish, chase, chase away, evict, exile, expel, repel, pursue; dismiss from job, discharge, fire from work, sack.
 -hlongomisa, meet suddenly, as two people looking for one another, or saying the same thing at the same moment.
--
--
--
--
--
 -hlongorisa, chase, pursue, repulse, run after, rout.
 -hlongoriwa, be exiled.
 -hlontswa, be sharp, be sharp pointed, end in a sharp point, sharpen.
@@ -3992,11 +3923,6 @@
 -huvaa, (id.) be covered with pimples.
 -huvela, 1 put on an oversized garment which covers the whole person, envelop oneself. 2 smoothen, pare off inequalities with a knife.
 -huvo, huvu 9, place where men foregather for deliberations and cases; court of justice, assembly, council; -- ya hosi, chief's council; -- ya majisitarata, magistrate's court; -- ya nkonaniso, inquisition court; huvonkulu, supreme court; -- yo hetelela ya makumu, appeal court; -- yo rhendzeleka, circuit- court; -- ya vaholobye, cabinet (ministers of state); yindlu ya --, council-chambers.-huwa, cry, scream, shout.
--
--
--
--
--
 -huwa 9, cry, shouting, hubbub, noise.
 -huwaa, (id.) have gooseflesh, be covered with pimples.
 -huwelela, shout, halloo, yell, howl; lament; hi ku --, cry aloud.
@@ -4019,16 +3945,6 @@
 -hwiyo 9, yellow-tailed longclaw.
 -hydrogen 9, (Eng.) hydrogen.
 -hyi, hyu, excl. of surprise usedby women.
--
--
--
--
--I
--
--
--
--
--
 -i, (id.) or e, be or do thus, with a gesture to show how; u nge i, do it this way.
 -i, (interj.) take! here you are!
 -i, (copula) it is; i munhu, it is a person; i mani? who is it?
@@ -4041,24 +3957,11 @@
 -inkomu, interj. used when saying thank you. inxi, interj. used to show contempt, scorn. irisi 9, (Eng.) iris of the eye.
 -Italiya 5, Italy.
 -ixi, interj. used to show scorn, contempt.
--
--
--
--
--J
--
--
--
 -ja, (id.) fall, crash, as tree.
 -jaa, (id.) be clear, clean.
 -jachacha 9, 1 black-backed jackal (Canis mesomelas). 2 Cape grey mongoose (Myonax pulverulentus).
 -jagular vein 9, (Eng.) jugular vein.
 -jaha, (Afr.) gallop; race, force one's steed to its utmost speed; hasten.
--
--
--
--
--
 -jaha 5, young man, youth, lad.
 -jaha-ntiyelwa 5, fully grown-up or mature young man.
 -jahaxinuna 5, middle-aged man. (Idiom) -va xijaha xa nhwala, to be vain, to overrate oneself.
@@ -4116,11 +4019,6 @@
 -jigijela, hurl, throw with force.
 -jiho, jihu 5, red loam.
 -jija, 1 bolt food, gulp down, swallow greedily large quantity of food at a time. 2 rejoice over something just received after a long deprivation.
--
--
--
--
--
 -ji-ji, (id.) make thudding sound, as when ramming down soil round a pole, or when stamping maize.
 -jijivuka, speak harshly in temper, speak violently.
 -jika, (Zu.) turn, make a turn, as when going round a corner.
@@ -4174,11 +4072,6 @@
 -jonja 5, terrestrial bulbul (Phyllastrephus terrestris terrestris).
 -joro, (id.) 1 be full, as a mortar. 2 stand alone, stand firmly without moving; stand deep in thought, not listening to orders.
 -jovo, (id.) nod the head forward, voluntarily, or when sleepy.
--
--
--
--
--
 -jovo-jovo, (id.) 1 peck, as fowl. 2 walk bending head forward at every step. 3 nodding because of being drowsy.
 -jovolota, 1 peck, as a bird, strike with the beak. 2 hoe superficially.
 -jovoloto, (id.) see -jovolota.
@@ -4210,16 +4103,6 @@
 -jwanguka, turn insipid, lose flavour, as beer.
 -jwavu 5, foreskin, prepuce.
 -jwii, (id.) be standing up straight.
--
--
--
--
--
--K
--
--
--
--
 -ka, (adv., prep.) at, to; times; ndzi yile ka Mohlaba, I went to Mohlaba (before names of persons); va sele ka yena, they remained at his place (before emphatic pronoun); mi tile ka mune, you came four times (before figures).
 -ka, (in connection with verb) famba -ka, go then! allright go!
 -ka, (aux. vb.; contraction of -kala) until, to the point when; va ta tirha va ka va karhala, they will work until they are tired.
@@ -4233,11 +4116,6 @@
 -kace, (id.) die down or be suppressed, as a rumour. kacee, (id.) feel breeze or smell coming towards one. kacha 6, dry cattle dung used as fuel.
 -kaciyela, see -kaca, -kacela.
 -kadyambu, (id.) walk naked.
--
--
--
--
--
 -kafuta, to take handfuls of, scoop large quantity of grain. (Idiom) -- dyondzo, to receive a sound education; -- xuma, to earn or make plenty of money.
 -kaha 5, see khaha.
 -kahla, have an unpleasant tart taste; be acid.
@@ -4282,11 +4160,6 @@
 -kalula, 1 be hard to please; demand too much, be unreasonnable, too exacting. 2 interj. confirming idea expressed by someone.
 -kaluma, bubble up.
 -kama, 1 press, squeeze, pin down, wring out, rinse. 2 throw to the ground in wrestling. 3 comb the hair. (Idiom) -- hi timhaka, to be found guilty beyond doubt through evidence; -- munhu, to defeat a person.
--
--
--
--
--
 -kamana, struggle, wrestle with, fight each other. (Idiom) -- ni timhaka, to be engaged in solving cases.
 -kamanyeta, 1 interrupt. 2 squeeze.
 -kamara, kamari 9, (Afr.) room; -- yo titimela, cool-room; -- ya xikolo, class-room.
@@ -4513,11 +4386,6 @@
 -kere, (id.) be very dry (weather); strike something hard.
 -kerefa, (Afr.) slice tobacco to fill a pipe, slice vegetables.
 -kereka, attend church service.
--
--
--
--
--
 -kereke 9, 1 (Afr.) church congregation, denomination; church building, chapel; -- ya Cheche, Anglican Church; -- ya Rhoma, Catholic Church. 2 kind of fowl without feathers on neck.
 -kerenga, polish, smoothen as wood with a tool.
 -kerisa, see -kera.
@@ -4573,11 +4441,6 @@
 -khahu 3, 1 (pl. mikhahu), the thorny climber Capparis subglabra (Oliv.) Gilg & Ben. 2 (cl. 5, pl. makha- hu) the thorny shrub Acacia pennata Willd.
 -khaja, khaja-khaja, (id.) see khaca-khaca.
 -kha-kha-kha, (id.) 1 burn in the mouth, as pepper. 2 guffaw, laughing heartily and loudly.
--
--
--
--
--
 -khakhakhakha, (id.) see -khakhasela. khakhanana, (id.) lie motionless or as if dead. khakhananaa, (id.) be dry and shrivelled, as hide.
 -khakhan'wa 5, long stick with fork at end, used by old men as walking stick.
 -khakharhela, be reluctant to give, as fruit, food; refuse to hand back borrowed object.
@@ -4628,11 +4491,6 @@
 -khanga 3, side-striped or silver jackal (Canis adustus).
 -khanghela, 1 look at, be a spectator of something exciting. 2 behold.
 -khangula, 1 use a cooking vessel for the first time. 2 inaugurate, as a building, a monument.
--
--
--
--
--
 -khanguta, eat something tasty; be tasty.
 -khanikha, (Eng.) repair a car.
 -khanimamba, khanimambo, khanimambu, interj. used when saying thank you.
@@ -4684,11 +4542,6 @@
 -khatlutela, cut or strip leaves off a switch.
 -khatsa, 1 clear land for a new field; make a clearing; plough virgin soil. 2 go away because of ill- treatment, as a wife going back to her parents.
 -khatsaa, (id.) abandon what one is busy with, because it can't be finished in time, and depart; leave off,
--
--
--
--
--
 -go away in a temper.
 -khatsanga 5, head of person (derogatory).
 -khava, kick.
@@ -4739,13 +4592,7 @@
 -khegu 1, 1 old lady. 2 small girl.
 -khegula, grow old, age (woman).
 -khehela, khehele 5, armpit.
--khehla, khehlwa 5, stalwart, man wearing the black wax crown. (Idiom) -- mbhodi, (i) to be long-lived,
--
--
--
--
--
--(ii) to graduate as a doctor, (iii) to make a man's head ring; -- xifoko, to straighten a woman's hair.
+-khehla, khehlwa 5, stalwart, man wearing the black wax crown. (Idiom) -- mbhodi, (i) to be long-lived,(ii) to graduate as a doctor, (iii) to make a man's head ring; -- xifoko, to straighten a woman's hair.
 -khehle, (id.) 1 crack, break into pieces, as pot, calabash. 2 palpitate, flutter, as the heart in sudden fright.
 -khehle 5, 1 large ember in midst of big fire. 2 large angry ulcer.
 -khehleka, 1 break easily, be friable as well cooked potato. 2 peel off, as plaster; crack, as pot, cala- bash. 3 fall in.
