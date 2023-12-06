@@ -1,6 +1,6 @@
-a, (high pitch) 1 formative of imperfect tense, a ndzi famba, I was walking; a ndzi fambile, I had gone. 2 formative of hortative, a hi tirheni, let us work.
-a, (low pitch) form of negative, a va tirhi, they are not working.
-a, (medium pitch) pron. 3rd pers. sing., he, she, it. a-a-a-a-a, exclamation of surprise or pain. abuxeni, (salutation) see avuxeni.
+a,(high pitch) 1 formative of imperfect tense, a ndzi famba, I was walking; a ndzi fambile, I had gone. 2 formative of hortative, a hi tirheni, let us work.
+a,(low pitch) form of negative, a va tirhi, they are not working.
+a,(medium pitch) pron. 3rd pers. sing., he, she, it. a-a-a-a-a, exclamation of surprise or pain. abuxeni, (salutation) see avuxeni.
 abvana 5, see bvana, maabvana. accelerando 9, accelerando (music). adajiyo 9, adagio (music).
 adirese 9, (Eng.) address of a letter, postal address.
 -adiresela, address a letter.
@@ -8,8 +8,8 @@ afirikati 9, (Eng.) affricate.
 Afrika 1, the continent of Africa; -- -Dzonga, South Africa; -- wa Dzonga, Southern Africa.
 -agenda 9, (Eng.) agenda.
 -Agoste, (Eng.) August.
-ahanti, ahati, interj. to express uncertainty, dubiousness, indecision, perhaps, weak refusal: May be! I don't know I am sure.
-ahe, ahee, interj. as an answer to a greeting, also to express thanks, approval, assent; interj. to children and boys among themselves.
+-ahanti, ahati, interj. to express uncertainty, dubiousness, indecision, perhaps, weak refusal: May be! I don't know I am sure.
+-ahe, ahee, interj. as an answer to a greeting, also to express thanks, approval, assent; interj. to children and boys among themselves.
 ahee, ahehe, interj. used as a warning against danger: mind, look out, beware; here you are, there it is.
 -ahlama, be wide open; open one's mouth, gape.
 -ahlamela, stay with open mouth. (Idiom) -- munhu, to pick a quarrel with a person.
@@ -45,12 +45,12 @@ andante
 -alata, lay down, spread out; -- mafusi, let land lie fallow.
 -aleka, let land lie fallow.
 -alela, forbid, refuse, resist, withhold.
-alfabete 9, (Eng.) alphabet.
-alimanaka 9, (Eng.) calendar, almanac.
+-alfabete 9, (Eng.) alphabet.
+-alimanaka 9, (Eng.) calendar, almanac.
 -alisa, prohibit, ban.
 alixeni, salutation: good morning.
-alkali 9, (Eng.) alkali.
-altari 9, (bib.) altar.
+-alkali 9, (Eng.) alkali.
+-altari 9, (bib.) altar.
 -alula, remove prohibition or taboo, as by giving gift to bride to make her uncover her face, or to infant so that it may come out of hut, or to circumcised boys so that they may be seen; give a small present to a new wife so that she may eat chicken.
 -alulana, give each other a small present.
 aluminyamu 9, (Eng.) aluminium.
@@ -156,13 +156,13 @@ atomo 9, (Eng.) atom.
 -ba, 1 beat, box, chastise, clap, strike, punish, assault, hit, knock, lash, punch, ram, rap, smite. 2 suspend, debar from office, excommunicate. 3 -- ka mbilu, pulsation. (Idiom) -- dada, -- xirhendzevu- tani, form a circle; -- guswi, to clap hands in greeting; -- hi gwitsi, to be covered with frost; -- hala ni hala, -- swikhago, (i) to beat about the bush, (ii) to mislead people with one's words; -- hansi, to fail, be unsuccessful; -- henhla, to score a high mark, to make a good impression; -- hi misava, -- hi rivala, become poor or sick, to suffer great misfortune, to lose all of one's possessions; -- hi moya, to take a walk; -- hi nenge, to walk barefoot, to go on foot; -- hi nomu, admonish, chastise; -- hi ripfalo, to have qualms of conscience; -- hi swikwembu, to be struck by misfortune, to suffer misfortune; -- or biwa hi tilo, to be struck by lightning; -- hi tinhlolo, to be smelt out as a witch; -- hi vuvabyi, to fall ill; -- hi xiphangu, to be damaged by hail; -- hi xirhami, to be frost-bitten; -- hungu/hungwe, (i) proclaim, (ii) raise the alarm, call to arms, (iii) to spread news; -- huwa, to shout, to clamour, to make a noise; -- ka tliloko, striking of the clock; -- khwele, to whistle through the teeth; -- kinko, harmonise, dance and blow reed flutes; -- kona, to hit the nail on the head, to feel the same; -- mabomu, to swim dog-stroke; -
 -madyota, (i) make sound of pestle in mortar, (ii) pull fingers or toes so that they make a clicking
 sound; -- magotsa, hasten one's pace; -- mahlo, deceive, cheat; -- mahlweni, -- mati, bribe, give a present to receive a service or favour; -- makhuvela, spread insinuations, hints; -- mandla, to thank, to express gratitude; -- maphepha, to play cards; -- maphinta, make windings as a snake; -- marha, to take a meal; -- matonoro/matonori, -- manorho/ swingorho, to snore; -- matsanya, to sit with legs apart/astride; -- mfee, to run away, to scatter; -- mhaka, conclude a matter satisfactorily, to strike or tell the truth; -- mhalamhala, to call the people to the chief's kraal; -- midaridari, -- mihahari, (i) talk nonsense, (ii) to be evasive; -- nkulungwagna, to express joy, ululate for joy (women); -- mombo, to bring a point home forcefully; -- moya, to miss; -- mphasa, to make a hemp pipe; -- muduba, form a line, fall in line; -- mukhosi, to call for assistance; -- nanga, (i) to blow a trumpet, (ii) to rejoice; -- ndleve, to listen with rapt attention; -- ndlopfu hi xibakele, to make no impression at all; -- ndzelekana, to fix a limit, a boundary, as of a field, to demarcate; -- ndzhaku ka xikomu, to reap an abundant crop;
--- ndzhati, draw a line; -- ngoma, to start/open a circumcision school; -- ngwenya hi sava, to carry coal
-to Newcastle; -- nhloko, to confuse, to deceive; -- nkalanga, to scream; -- nkosi, to lament, to mourn; --
-
-nomu, to stop someone from speaking; --noti, to hiss, to whistle; -- noyi, declare someone as being a witch, to point out a witch; -- nsimbhi, to ring a bell; ntsengo, -- tihomu, to pay the bride price/dowry; -- nkelenga, -- nyanda, -- nyandhayeyo, call for help; -- ntshati, to draw a line; -- nyiwa, proclamation by chief only; -- nyoka, to take a meal; -- pongo/pongwe, make a noise; -- rikofu, clap hands in ritual fashion, showing respect and thanks; -- riqinghu, telegraph; -- ritsurhi, to make dust rise up in the air;
--- timpiko, flap wings; -- tinhlaya, eat one bite or very little only; -- tinhloko ta timhaka, to summarise a discussion or a story; -- tinhlolwana, to make knuckles produce a cracking sound; -- tsolo, render a girl pregnant; -- vurhongo, sleep deeply; -- wa xibunu, to wake up early; -- hi xibakela, to box, to punch; -- xifuva, cause to forget; -- xihlahla, to miss the culprit; -- xihlungwana, (i) to roof a house, (ii) to be very tall; -- xikhiyani, make shrill-out laughter of happiness or derision; -- xikosi, to hit the nail on the head;
--- xindziwandziwana, to evade the truth, prevaricate; -- xinghezi, to speak good english; -- xingonya, to act violently; -- swipikiri, to drive in nails; --xipirhi, make secret arrangements; -- xitseve, to sit with folded legs; -- xuma, pay dowry/bride price.
-baa, (id.) 1 be flat. 2 be white, be plainly visible.
+-- ndzhati, draw a line; 
+-- ngoma, to start/open a circumcision school; -- ngwenya hi sava, to carry coal
+to Newcastle; -- nhloko, to confuse, to deceive; -- nkalanga, to scream; -- nkosi, to lament, to mourn; 
+--nomu, to stop someone from speaking; --noti, to hiss, to whistle; -- noyi, declare someone as being a witch, to point out a witch; -- nsimbhi, to ring a bell; ntsengo, -- tihomu, to pay the bride price/dowry; -- nkelenga, -- nyanda, -- nyandhayeyo, call for help; -- ntshati, to draw a line; -- nyiwa, proclamation by chief only; -- nyoka, to take a meal; -- pongo/pongwe, make a noise; -- rikofu, clap hands in ritual fashion, showing respect and thanks; -- riqinghu, telegraph; -- ritsurhi, to make dust rise up in the air;
+--timpiko, flap wings; -- tinhlaya, eat one bite or very little only; -- tinhloko ta timhaka, to summarise a discussion or a story; -- tinhlolwana, to make knuckles produce a cracking sound; -- tsolo, render a girl pregnant; -- vurhongo, sleep deeply; -- wa xibunu, to wake up early; -- hi xibakela, to box, to punch; -- xifuva, cause to forget; -- xihlahla, to miss the culprit; -- xihlungwana, (i) to roof a house, (ii) to be very tall; -- xikhiyani, make shrill-out laughter of happiness or derision; -- xikosi, to hit the nail on the head;
+--xindziwandziwana, to evade the truth, prevaricate; -- xinghezi, to speak good english; -- xingonya, to act violently; -- swipikiri, to drive in nails; --xipirhi, make secret arrangements; -- xitseve, to sit with folded legs; -- xuma, pay dowry/bride price.
+-baa, (id.) 1 be flat. 2 be white, be plainly visible.
 -baba, 1 defecate, go to stool (only of children); evacuate bowels, excrete. 2 patch, a garment.
 baba 5, 1 large patch or blotch of colour, as on an animal. 2 excrement, stool, faeces.
 -babababa, patch up clothes or a bad business.
@@ -181,31 +181,29 @@ badi 5, bad luck, ill-luck, misfortune. (Idiom) -chela --, to thrust ill-luck on
 -badlha, perspire abundantly, sweat.
 -badza, hunt small insects with hands or small branches.
 -bafalala, lie on one's face in the sun; lie on one's stomach; lie sprawling in the open in ungainly way.
-bafalala, (id.) see -bafalala.
-bafu 5, (Eng.) bath, tub.
-bahasaa, (id.) scatter, as boys running away in all directions, or as dropped beads.
+-bafalala, (id.) see -bafalala.
+-bafu 5, (Eng.) bath, tub.
+-bahasaa, (id.) scatter, as boys running away in all directions, or as dropped beads.
 -baja, 1 stick in mud, as a vehicle; be bogged. 2 be unable to go further through adverse circumstances. 3 swerve, zigzag as when pursued; turn and twist, as path; meander, as river. 4 hide oneself by lying down.
 -bajabaja, dodge about, zigzag, meander; evade the truth.
 -baja-bajisa, dribble (soccer).
-baji 5, (Afr.) jacket, coat; -- ro leha, cloak; -- ra xisati, blouse.
+-baji 5, (Afr.) jacket, coat; -- ro leha, cloak; -- ra xisati, blouse.
 -baka, (Afr.) bake bread; form or make bricks.
 -bakana, 1 be crushed together in a small place. 2 come to an agreement, agree about going some- where. 3 give a lift on one's bicycle. 4 meet one another.
 -bakanya, thrust, throw aside, wave aside, as a hand laid on one's person, or another's words; ward off a blow, parry; knock off or away on purpose; knock down, as a vessel containing a liquid.
 -bakanyela, -- kule, chase far away.
 bakatswa, bakatwa 5, large elephant tusk.
 -bakela, (Afr.) box, pummel, strike with fists.
-bakela 5, fist.
-bakiti 5, (Eng.) bucket, pail.
-bako, baku 5, 1 cave, cavity, cavern, den; hole in rock; -- ra musundhula, medullary cavity; -- ra xifuva, chest cavity. 2 footfall, footstep while kicking up a little sand.
-baku, baku-baku, (id.) draw water noisily, flow into vessel noisily (liquid).
+-bakela 5, fist.
+-bakiti 5, (Eng.) bucket, pail.
+-bako, baku 5, 1 cave, cavity, cavern, den; hole in rock; -- ra musundhula, medullary cavity; -- ra xifuva, chest cavity. 2 footfall, footstep while kicking up a little sand.
+-baku, baku-baku, (id.) draw water noisily, flow into vessel noisily (liquid).
 -bakuka, ship water, as canoe when tilted.
 -bakula, lift one's feet or plough clogged with sticky mud.
 -bakuta, 1 scoop out, ladle, bale, bail out water. 2 paddle, row.
 -bakutela, paddle, row.
 -bala, 1 tax. 2 pay tax or rent. 3 (Zu.) write, copy.
 -bala 9, (Eng.) 1 bar, public house. 2 (cl. 5) place where salt is found. 3 wheelbarrow.
-
-
 -balabatseka, 1 sleep badly, restlessly; toss in sleep or sickness. 2 talk on and on, as in delirium or rage, talk out of turn.
 bale 5, (Eng.) wheelbarrow.
 -baleka, 1 open out, break, burst open, shoot, as buds; -- xiluva or vuluva, bloom, blossom, flower; -- mahlo, open the eyes (of pups or kittens). 2 bolt, elope, flee, run away, slink, escape, desert, leave without notice. 3 crack, as thunderbolt, thunderclap; go off with a bang, as a gun; explode. (Idiom) -- mahlo, to face the realities of life, become wise.
@@ -219,11 +217,11 @@ balekwani 3, Transvaal gardenia (Gardenia spatulifolia Stapf & Hutch).
 baloni, baluni 9, (Eng.) balloon.
 balwa 5, sp. of big rat.
 -bama, 1 daub, plaster, apply soft mud, e.g. to floor or to weight for trap (in lieu of flat stone). 2 dish out food on plates.
-bamba 5, 1 flat open space, level place or space. 2 girdle, belt; strap made of skin and worn by men around the waist or chest.
+-bamba 5, 1 flat open space, level place or space. 2 girdle, belt; strap made of skin and worn by men around the waist or chest.
 -bamba, 1 gird, girdle, encircle with belt. 2 heap up, as patting clay with hands.
-bambahonyi 9, green pigeon (Treron calva vylderi).
+-bambahonyi 9, green pigeon (Treron calva vylderi).
 -bambalaza, graze with missile; strike glancing blow (of missile).
-Bam-Bam, nyimpi ya --, Anglo-Boer War.
+-Bam-Bam, nyimpi ya --, Anglo-Boer War.
 -bambata, 1 caress, pat on the back. 2 make level. 3 put down.
 -bambatela, 1 heap up, by patting clay with one's hands, to make a ball or heap, as of porridge or clay. 2 make level. 3 pat on the back. 4 appease by false promises.
 -bambela, swim, bathe.
@@ -232,63 +230,63 @@ Bam-Bam, nyimpi ya --, Anglo-Boer War.
 bamfe, bamfee, (id.) scatter suddenly, as in fright.
 -bamula, walk with boots or feet heavily clogged with mud; wade through mud.
 -banana, fight/beat each other. (Idiom) -- hi rhambu ra mfenhe, to shower favours on one's blood relations only; -- hi rhanga ro hisa, to quarrel seriously.
-banana 5, banana fruit. Banana 1, Letaba station. banci 5, see baji.
+-banana 5, banana fruit. Banana 1, Letaba station. banci 5, see baji.
 -bandeja, (Eng.) bandage.
-bandeji 5, (Eng.) bandage.
-bandhi, bandi 5, (Eng.) belt, strap, band, girth, sash.
+-bandeji 5, (Eng.) bandage.
+-bandhi, bandi 5, (Eng.) belt, strap, band, girth, sash.
 -bandza, argue, discuss, dispute.
-bandzala 5, sp. of large locust with red and green wings (Phymateinae), elegant locust.
+-bandzala 5, sp. of large locust with red and green wings (Phymateinae), elegant locust.
 -bandzanisa, cause discord, provoke quarrels, slander one party to the other.
-bandze 5, 1 old person well versed in traditions. 2 well-dressed person.
-bandzu 5, 1 court of justice. 2 gathering of people to chase away army-worms by ceremonial singing and dancing; place where men gather for deliberations.
+-bandze 5, 1 old person well versed in traditions. 2 well-dressed person.
+-bandzu 5, 1 court of justice. 2 gathering of people to chase away army-worms by ceremonial singing and dancing; place where men gather for deliberations.
 -banga, 1 join together, interlace, as thongs, fringes, beadwork; use two things at the same time. 2 -- vufendze, cover up defects in garment; -- timhaka, make up a story to conceal one's guilt. 3 bank, save money. (Idiom) -- vufendze, -- vusopfa,
 -manyala, to save face.
-banga 5, dagger, hack-knife, bush-knife; sword; -- ra xikero, blade of scissors; -- ro saha tinsimbhi, hack-saw blade; -- ra xindzuluti, propeller blade.
-banga, (id.) glance furtively.
-bangalala 5, the herb Gynandropsis pentaphylla (L.) DC.
+-banga 5, dagger, hack-knife, bush-knife; sword; -- ra xikero, blade of scissors; -- ro saha tinsimbhi, hack-saw blade; -- ra xindzuluti, propeller blade.
+-banga, (id.) glance furtively.
+-bangalala 5, the herb Gynandropsis pentaphylla (L.) DC.
 -bangata, glance at furtively.
 -bangelela, lengthen thong or string by tying another piece to it; repair hole in garment, basket or winnow; mend.
-bangi 9, see banki.
+-bangi 9, see banki.
 -bangisa, take two at a time; use two things at the same time.
 -bango 3, place.
 -bangula, run away, rush away in terror.
-banji 5, (Afr.) jacket, coat.
+-banji 5, (Afr.) jacket, coat.
 
 
 
 -banka, (Eng.) bank, save money.
-banki 9, (Eng.) bank; -- ya bindzu, commercial bank.
+-banki 9, (Eng.) bank; -- ya bindzu, commercial bank.
 -banqa, -banqela, see -bangisa.
-banti 5, (Eng.) strap, band, sash, girt, girth, ribbon; -- ra nsomo, bias binding.
-bantiti 5, (Afr.) convict, prisoner.
-banyela 5, metal tub.
-banyi 5, treeless plain; extensive grazing area, prairie.
+-banti 5, (Eng.) strap, band, sash, girt, girth, ribbon; -- ra nsomo, bias binding.
+-bantiti 5, (Afr.) convict, prisoner.
+-banyela 5, metal tub.
+-banyi 5, treeless plain; extensive grazing area, prairie.
 -banyisa, see -bangisa.
-bara 5, (Eng.) 1 public house, bar. 2 wheelbarrow. 3 -- ya xisibi, bar of soap. 4 long stick.
+-bara 5, (Eng.) 1 public house, bar. 2 wheelbarrow. 3 -- ya xisibi, bar of soap. 4 long stick.
 -barama, 1 fall sprawling, spread-eagled. 2 be low pitched, as a roof.
-barara, (id.) 1 lie sprawling as a fledgling. 2 be low, broad or squat, as sagging roof.
-barara 5, sp. of big toad living in mud.
-baratsatsa, (id.) lie on one's stomach; sit with legs stretched out.
+-barara, (id.) 1 lie sprawling as a fledgling. 2 be low, broad or squat, as sagging roof.
+-barara 5, sp. of big toad living in mud.
+-baratsatsa, (id.) lie on one's stomach; sit with legs stretched out.
 -bareketa, plaster roughly and thickly, as when putting on first layer on a wall; throw sticky substance against.
 -bareketela, daub, plaster carelessly.
-barha 5, 1 long stick. 2 (Eng.) public house, bar. 3 bar of soap. 4 wheelbarrow.
-barhatsatsa, (id.) see mbarhatsatsa.
-barhu-barhu, (id.) see -barhutela.
+-barha 5, 1 long stick. 2 (Eng.) public house, bar. 3 bar of soap. 4 wheelbarrow.
+-barhatsatsa, (id.) see mbarhatsatsa.
+-barhu-barhu, (id.) see -barhutela.
 -barhutela, slosh through soft mud.
-barika 5, (Port.) boat, barque, yacht.
+-barika 5, (Port.) boat, barque, yacht.
 -barisa, collect tax, make people pay tax or rent, impose a levy.
 barileyi 9, (Eng.) barley. barometa 9, (Eng.) barometer. baroni 9, (Eng.) baron.
 -basa, whiten, blanch, be or become white, bright, clean, pure, clear; be clear as sky; lowo --, lavo --, white man, white people; ku --, whiteness. (Idiom) u base nhloko, he is white-haired.
 -basahata, bleach.
-basari 9, (Eng.) bursary.
+-basari 9, (Eng.) bursary.
 -basela, give a small present in consideration of a purchase made; give a tip over and above remunera- tion due.
-basela 9, bonus, gratification, tip, present given by trader for goods purchased.
+-basela 9, bonus, gratification, tip, present given by trader for goods purchased.
 -baselana, give present in more instances than most other people.
-baselana, (id.) be all white, as a whole bed of white flowers, much white linen or maize meal spread to dry.
-basikiri 9, (Eng.) bicycle.
+-baselana, (id.) be all white, as a whole bed of white flowers, much white linen or maize meal spread to dry.
+-basikiri 9, (Eng.) bicycle.
 -basisa, 1 make white, whiten; clean, cleanse, purify, polish, bleach; -- swomile, dryclean. 2 -- mhaka, render a matter clear; absolve, excuse.(Idiom) -- tindlela, prepare.
 basiya 5, (Port.) wash-basin, wash-bowl.
-basikiti, baskiti 9, (Eng.) basket.
+-basikiti, baskiti 9, (Eng.) basket.
 -basopa, (Afr.) care for, mind, supervise, take care of, manage.
 -basuluka, become dirty, discoloured, pale; fade, lose colour, also of a person who has not washed properly. 2 bleach.
 -basungana, frown, wear expression of acute suffering.
@@ -296,21 +294,18 @@ basikiti, baskiti 9, (Eng.) basket.
 -batabata, tell lies.
 -batala, (Afr.) 1 pay what is due as rent, wages, but not purchases. 2 remunerate.
 -batela, exhort fighting people to desist.
-bateri 9, (Eng.) battery.
-batsa 5, cavity, hole, as in a tree.
-batsa, batse 5, 1 mat of palm leaves. 2 large old winnowing basket. batsheke, (id.) swerve quickly, as runner dodging an obstacle. batsi, batsu 5, see batsa.
+-bateri 9, (Eng.) battery.
+-batsa 5, cavity, hole, as in a tree.
+-batsa, batse 5, 1 mat of palm leaves. 2 large old winnowing basket. batsheke, (id.) swerve quickly, as runner dodging an obstacle. batsi, batsu 5, see batsa.
 -bava, 1 be bitter, sour or acid, as lemon. 2 be briny.
-bava 1, (Zu.) father.
-bavalala, (id.) see -bavanana.
+-bava 1, (Zu.) father.
+-bavalala, (id.) see -bavanana.
 -bavalasa, lie on one's stomach.
 -bavanana, -- hi vukhwirhi, lie flat on one's stomach.
 -bavela, be mildly bitter.
-bavhu 5, (Eng.) basin, bath, tub.
-bavhu, (id.) arrive suddenly, unexpectedly.
-bavitsoko 5, 1 bitter sweet drink, ginger beer, pineapple beer; chutney. 2 something causing pleasure and pain.
-
-
-
+-bavhu 5, (Eng.) basin, bath, tub.
+-bavhu, (id.) arrive suddenly, unexpectedly.
+-bavitsoko 5, 1 bitter sweet drink, ginger beer, pineapple beer; chutney. 2 something causing pleasure and pain.
 
 
 -bavuka, 1 be scorched, singed, blackened by fire, as veld; -- malepfu, get one's whiskers burnt off; mavele ya bavukile, the maize is burnt by the sun. 2 -- xivirhi, be slandered, be the victim of slander and calumny.
