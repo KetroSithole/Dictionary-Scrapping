@@ -4644,11 +4644,6 @@
 -khexe-khexe, (id.) grate, crunch, as boots on sand, or hoe in hard gravelly soil.
 -khi, (id.) kick backwards; strike backwards with elbow.
 -khibi, (id.) produce dull thud, as heavy object dropping to ground or blow with club on belly of animal.
--
--
--
--
--
 -khibi-khibi, (id.) see -khibinya.
 -khibinya, 1 kick, as animal in death throes. 2 limp, as a man, grow limp as clothes badly tied round man's waist.
 -khida, bathe, play about in water.
@@ -4701,11 +4696,6 @@
 -khisama, kneel.
 -Khisimusi 9, (Afr.) Christmas, Nativity; ntlangu wa --, nativity play.
 -khiti, (id.) see -khitika.
--
--
--
--
--
 -khitika, proceed/walk together in a crowd, go together in a mass.
 -khitikana, walk in a file; go together in a mass, a crowd; tiko ri khitikanile, the country is empty, because all have left together.
 -khiti-khiti, (id.) see -khitikana.
@@ -4757,19 +4747,14 @@
 -khololwane, khololwani 5, 1 Cape glossy starling (Lamprocolius nitens phoenicopterus). 2 (cl. 3) gullet, oesophagus.
 -kholomba 5, sp. of unidentified lizard.
 -kholombya 3, green and red-tailed lizzard.
--
--
--
--
--
 -kholoro 9, (Eng.) collar.
 -kholwa, (Zu.) 1 believe, be convinced; think, suppose. 2 stay in town for good, having left a rural area.
 -kholwa 5, (Zu.) 1 christian. 2 man who has settled in town and never returns home.
 -khoma, catch, seize, grab, grasp, clutch, arrest; -- nomu, to interrupt, to silence with conclusive arguments. (Idiom) -- hala ni hala, to have many irons in the fire, to have too many things to do; -- hanci, to win a bet at the race-course; -- hi babalaza, to suffer from a hangover; -- hi le ndzeni, to have abdominal pains; -- hi mafundza, to entertain; -- hi mbilu, (I )to keep in mind, (ii) to harbour a grudge; -
 - hi ndlala, to feel hungry; -- hi ndleve, (i) to overhear a remark, (ii) to punish; -- hi ngolota, to have firmly under one's control; -- hi sululwana, (i) to feel dizzy, (ii) to be perplexed; -- hi swikwembu, be possessed by the spirits; -- hi tihlo, to catch a glimpse of; -- hi timhaka, to be incriminated by evidence;
 -- hi tingana, to be embarrassed, to feel ashamed; -- hi tinhlolo, to be smelt out as a witch; -- hi voko, to aid, to assist, to help; -- hi vusiwana, to become poor; -- hi vuvabyi, to fall ill; -- hi vurhongo, to fall fast asleep; -- hi xirhami, (i) to be scared to death, (ii) to feel cold, to shiver; -- hi xithongwana, to become or fall unconscious; -- hi xivundza, to feel lonely; -- khamba, to arrest a thief; -- ko hisa, to face a very great task; -- mali, to save money; --mavoko, -- munhu mavoko, to impede a person's progress; -- mbeleko, to sterilise a woman; -- mberha, to fall down; -- mbilu, to attract or to impress; to take cour- age; -- moya, to make neither head nor tail; -- moya wa N., to hold N. in suspense; -- ncila, to take the last position in a race or task; -- ncila wa bulubulu, to be in deep waters; -- ndlela, to depart, to start a trip; -- ndzhongo, to be properly soaked; -- nghavitla, -- nyarhi hi timhondzo, -- xo tika, to be in grave difficulties; -- nhloko ya mhaka, to follow the gist of a matter; -- njiya, to fall; -- n'wana, to give birth to a baby; -- nyakanyaka, to be face to face with confusion; -- swi tiya, to brave difficulties with courage;
--- tinhlolo, to practise the science of divination; -- thyaka, to be in a compromising situation; -- xandla,
--to congratulate; -- xirha, to be faced with a life or death issue; byi khome nkombe, it is all right.
+-tinhlolo, to practise the science of divination; -- thyaka, to be in a compromising situation; 
+-- xandla,to congratulate; -- xirha, to be faced with a life or death issue; byi khome nkombe, it is all right.
 -khomakhoma, 1 cure, fortify a person with medicines. 2 caress. (Idiom) to thrash.
 -khomana, 1 catch hold of one another, fight. 2 be tight, be stuck together, as two things. (Idiom) -- hi mavoko, to assist each other.
 -khomba, 1 menstruate for first time, become nubile. 2 undergo initiation ceremony.
@@ -4798,11 +4783,6 @@
 -khoneka, place in fork of tree; hang up something heavy in tree (mostly meat); put in a secure seclud- ed place; wedge between other objects so as to prevent movement.
 -khonela, get stuck between, as meat between teeth.
 -khoneta, put in secure place, wedge between other things so as to prevent movement.
--
--
--
--
--
 -khongela, 1 beg pardon for wrong done, e.g. damage to crops by one's cattle. 2 beseech, entreat, implore, invoke, ask for forgiveness. 3 pray, worship.
 -khongelela, intercede.
 -khongetela, see -khongotela.
@@ -4855,13 +4835,7 @@
 -khotseko 3, curl.
 -khotsiwa, be convicted, imprisoned.
 -khotso 5, 1 prison, jail, cell, gaol, court of justice; originally stocks consisting of heavy log put on legs of prisoner to prevent escape. 2 male of dog, jackal.
--khovela, 1 be in difficulty, be subjected to great strain. 2 duck to avoid a blow. 3 withdraw into
--
--
--
--
--
--concealment.
+-khovela, 1 be in difficulty, be subjected to great strain. 2 duck to avoid a blow. 3 withdraw into concealment.
 -khoveta, 1 throw a morsel of food into one's mouth. 2 draw/lift up a limb so that it does not touch the ground. 3 duck to avoid a blow. 3 withdraw into concealment.
 -khovetisa, feed an infant, a sick person.
 -khovo, (id.) see -khovota.
